@@ -494,7 +494,7 @@ main img{
 }
 
 #competitionpagetitle{
-    grid-column: 1 / 4;
+    grid-column: 2 / 4;
     grid-row: 4 / 5;
     text-align: center;
     line-height: 1.5;
@@ -597,7 +597,7 @@ main img{
 }
 
 #aboutpagetitle{
-    grid-column: 1 / 4;
+    grid-column: 2 / 4;
     grid-row: 4 / 5;
     text-align: center;
     line-height: 1.5;
@@ -644,7 +644,7 @@ main img{
 }
 
 #supportpagetitle{
-    grid-column: 1 / 4;
+    grid-column: 2 / 4;
     grid-row: 4 / 5;
     text-align: center;
     line-height: 1.5;
@@ -699,7 +699,7 @@ main img{
 }
 
 #contactpagetitle{
-    grid-column: 1 / 4;
+    grid-column: 2 / 4;
     grid-row: 4 / 5;
     text-align: center;
     line-height: 1.5;
